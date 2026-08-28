@@ -2,28 +2,27 @@
 
 **Aorus Gaming Web** is a gaming shop website developed using **HTML, JavaScript, and Bootstrap**.
 
-This project focuses on implementing **UI/UX design** to create an intuitive, responsive, and engaging user experience while maintaining visual consistency with the Aorus brand identity.
+The project focuses on delivering a modern, responsive, and engaging shopping interface while maintaining visual consistency with the Aorus brand identity.
 
 ## 🎮 About the Project
 
-This website was developed as a gaming shop interface with a focus on modern design and a comfortable user experience.
+Aorus Gaming Web was developed as a gaming-focused e-commerce interface designed to provide an intuitive and visually consistent user experience.
 
-The development process includes page layout implementation, interactive components, navigation, and responsive optimization across different screen sizes.
+The implementation includes structured page layouts, interactive components, responsive navigation, and interface optimization across different screen sizes.
 
 ## ✨ Features
 
-Some of the features and implementations included in this project are:
+Key features and implementations include:
 
-* Gaming shop website interface
+* Modern gaming shop interface
 * Responsive web design
 * Intuitive navigation
 * Interactive UI components
-* Bootstrap implementation
 * JavaScript-based interactions
-* Responsive layout across multiple devices
-* Consistent design across pages
-* Visual elements aligned with the Aorus brand identity
-* User experience optimization
+* Bootstrap-based responsive layout
+* Consistent visual design across pages
+* Interface elements aligned with the Aorus brand identity
+* Optimized user experience across desktop and mobile devices
 
 ## 🛠️ Technologies
 
@@ -37,38 +36,38 @@ The main technologies used in this project are:
 
 Clone the repository:
 
-```bash id="l3o1a9"
+```bash
 git clone https://github.com/weztcy/Aorus-Gaming-Website.git
 ```
 
 Navigate to the repository directory:
 
-```bash id="o3x8pk"
+```bash
 cd Aorus-Gaming-Website
 ```
 
-Open the main HTML file in your web browser to run the website.
+Open the main HTML file in a web browser to run the website.
 
 ## 🎯 Project Objectives
 
 This project was developed to:
 
-* Implement UI/UX design into a functional website
-* Build a modern gaming shop interface
-* Develop interactive features using JavaScript
-* Apply responsive design using Bootstrap
-* Maintain consistent visual design across different devices
-* Improve the user experience through intuitive navigation and layout
+* Deliver a functional and visually consistent gaming shop interface
+* Implement responsive UI/UX across different screen sizes
+* Provide interactive website functionality using JavaScript
+* Maintain design consistency with the Aorus brand identity
+* Create an intuitive navigation and content structure
+* Ensure a consistent user experience across desktop and mobile devices
 
 ## 📱 Responsive Design
 
-The website is designed to adapt to different screen sizes, from desktop to mobile devices.
+The website is designed to adapt seamlessly across different screen sizes, from desktop to mobile devices.
 
-Bootstrap is used to create a flexible and responsive layout, ensuring a consistent user experience across various devices.
+Bootstrap is used to provide a flexible responsive layout while maintaining consistent spacing, navigation, and interface behavior across devices.
 
 ## 📜 License
 
-This project was created for learning, skill development, and portfolio documentation purposes.
+This project is maintained for portfolio, reference, and development purposes.
 
 ---
 
