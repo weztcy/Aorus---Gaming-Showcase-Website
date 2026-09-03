@@ -1,62 +1,49 @@
 # Aorus - Gaming Showcase Website
 
-**Aorus - Gaming Showcase Website** is a gaming shop website developed using **HTML, JavaScript, and Bootstrap**.
+**Aorus - Gaming Showcase Website** is a gaming product showcase website developed using **HTML, JavaScript, and Bootstrap**.
 
-The project focuses on delivering a modern, responsive, and engaging shopping interface while maintaining visual consistency with the Aorus brand identity.
+The project focuses on presenting AORUS gaming products through a modern, immersive, and responsive interface while maintaining visual consistency with the AORUS brand identity.
 
 ## 🎮 About the Project
 
-Aorus - Gaming Showcase Website was developed as a gaming-focused e-commerce interface designed to provide an intuitive and visually consistent user experience.
+Aorus - Gaming Showcase Website was developed as a gaming-focused product presentation platform designed to showcase the AORUS ecosystem and its high-performance gaming components.
 
-The implementation includes structured page layouts, interactive components, responsive navigation, and interface optimization across different screen sizes.
+The website provides an engaging browsing experience by presenting various gaming products with structured page layouts, interactive components, responsive navigation, and interface optimization across different screen sizes. The showcased products include AORUS gaming hardware such as motherboards, graphics cards, gaming monitors, gaming laptops, desktop PCs, PC peripherals, and other PC components designed for modern gaming setups.
 
 ## ✨ Features
 
 Key features and implementations include:
 
-* Modern gaming shop interface
-
-* Responsive web design
-
-* Intuitive navigation
-
-* Interactive UI components
-
-* JavaScript-based interactions
-
-* Bootstrap-based responsive layout
-
-* Consistent visual design across pages
-
-* Interface elements aligned with the Aorus brand identity
-
-* Optimized user experience across desktop and mobile devices
+- Modern gaming showcase interface
+- Responsive web design
+- Intuitive navigation
+- Interactive UI components
+- JavaScript-based interactions
+- Bootstrap-based responsive layout
+- Product-focused presentation
+- Consistent visual design across pages
+- Interface elements aligned with the AORUS brand identity
+- Optimized user experience across desktop and mobile devices
 
 ## 🛠️ Technologies
 
 The main technologies used in this project are:
 
-* HTML
-
-* JavaScript
-
-* Bootstrap
+- HTML
+- JavaScript
+- Bootstrap
 
 ## 🎯 Project Objectives
 
 This project was developed to:
 
-* Deliver a functional and visually consistent gaming shop interface
-
-* Implement responsive UI/UX across different screen sizes
-
-* Provide interactive website functionality using JavaScript
-
-* Maintain design consistency with the Aorus brand identity
-
-* Create an intuitive navigation and content structure
-
-* Ensure a consistent user experience across desktop and mobile devices
+- Deliver a modern and visually consistent gaming product showcase interface
+- Present AORUS gaming products through an engaging digital experience
+- Implement responsive UI/UX across different screen sizes
+- Provide interactive website functionality using JavaScript
+- Maintain design consistency with the AORUS brand identity
+- Create intuitive navigation and structured content presentation
+- Ensure a consistent user experience across desktop and mobile devices
 
 ## 📱 Responsive Design
 
@@ -70,4 +57,4 @@ This project is maintained for portfolio, reference, and development purposes.
 
 ---
 
-**Aorus - Gaming Showcase Website — Gaming Shop UI/UX Implementation**
+**Aorus - Gaming Showcase Website — Gaming Product Presentation & UI/UX Implementation**
