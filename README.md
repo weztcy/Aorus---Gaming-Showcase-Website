@@ -10,15 +10,7 @@ Aorus - Gaming Showcase Website was developed as a gaming-focused product presen
 
 The website provides an engaging browsing experience by presenting various gaming products with structured layouts, interactive elements, responsive navigation, and optimized user interfaces across different screen sizes.
 
-The showcased product categories include:
-
-- Motherboards
-- Graphics Cards
-- Gaming Monitors
-- Gaming Laptops
-- Desktop PCs
-- PC Peripherals
-- Other PC Components
+The showcased product categories include **motherboards, graphics cards, gaming monitors, gaming laptops, desktop PCs, PC peripherals, and other PC components**.
 
 ## ✨ Features
 
@@ -54,31 +46,6 @@ This project was developed to:
 - Maintain consistency with the AORUS gaming brand identity
 - Improve product exploration experience through intuitive navigation
 - Demonstrate modern front-end development practices
-
-## 🖥️ Product Categories
-
-The website showcases various AORUS gaming product categories, including:
-
-### Motherboards
-High-performance gaming motherboards designed for powerful and reliable PC builds.
-
-### Graphics Cards
-Gaming GPUs built for high-resolution gaming performance and advanced graphics experiences.
-
-### Gaming Monitors
-Premium gaming displays featuring high refresh rates, accurate visuals, and immersive gameplay.
-
-### Gaming Laptops
-Portable gaming devices combining powerful hardware with modern gaming aesthetics.
-
-### Desktop PCs
-Pre-built gaming systems optimized for performance, stability, and gaming experiences.
-
-### PC Peripherals
-Gaming accessories including keyboards, mice, headsets, and other supporting devices.
-
-### PC Components
-Additional hardware components supporting complete gaming PC configurations.
 
 ## 📱 Responsive Design
 
