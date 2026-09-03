@@ -98,7 +98,7 @@ The interface adopts a modern gaming aesthetic inspired by AORUS branding, empha
 
 ## 📜 License
 
-This project is maintained for portfolio, learning, reference, and development purposes.
+The source code in this repository is available for learning, reference, experimentation, and educational purposes.
 
 ---
 
