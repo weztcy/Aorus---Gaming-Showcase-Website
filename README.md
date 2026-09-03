@@ -32,22 +32,6 @@ The main technologies used in this project are:
 * JavaScript
 * Bootstrap
 
-## ▶️ How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/weztcy/Aorus-Gaming-Website.git
-```
-
-Navigate to the repository directory:
-
-```bash
-cd Aorus-Gaming-Website
-```
-
-Open the main HTML file in a web browser to run the website.
-
 ## 🎯 Project Objectives
 
 This project was developed to:
