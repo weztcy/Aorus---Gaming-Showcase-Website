@@ -127,13 +127,13 @@ aorus/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/weztcy/Aorus.git
+   git clone https://github.com/weztcy/Aorus.githttps://github.com/weztcy/Aorus---Gaming-Showcase-Website.git
    ```
 
 2. Navigate into the project folder:
 
    ```bash
-   cd Aorus
+   cd Aorus---Gaming-Showcase-Website
    ```
 
 3. Open the site:
