@@ -1,4 +1,4 @@
-# AORUS Gaming Showcase Website
+# AORUS - Gaming Showcase Website
 
 A static, front-end website that showcases AORUS gaming hardware - motherboards, graphics cards, PC components, and gaming laptops - complete with product detail pages, tech articles, a media gallery, and support pages. Built with plain HTML, CSS, and JavaScript (plus a small PHP form for product registration), it presents the AORUS product line in a dark, gaming-inspired visual style with video backgrounds and interactive elements.
 
