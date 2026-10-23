@@ -6,33 +6,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product Registration</title>
     <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+        html {
+            scroll-behavior: smooth;
+        }
         body{
             background-image: url("image/Geometry\ Aorus.JPG");
             color: rgb(255, 255, 255);
+            margin: 0;
+            overflow-x: hidden;
+            font-family: Arial, sans-serif;
         }
         .judul{
             text-align: center;
+            padding: 10px 15px;
         }
         .logo_aorus{
-            width: 300px;
+            max-width: 300px;
+            width: 80%;
+            height: auto;
             padding: 35px 0px 10px 0px;
         }
         .navigation{
-            padding: 20px;
+            padding: 20px 10px;
             text-align: center;
             font-size: 20px;
             background-color:#333333;
-            margin-bottom:100px;
+            margin-bottom:60px;
+        }
+        .navigation nav{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
         }
         .isibody{
             margin: 0px 200px;
             text-align: left;
         }
         a{
-            padding: 20px 20px 0px 20px;
+            padding: 15px 20px;
             font-size: 20px;
             text-decoration: none;
             color: rgb(255, 255, 255);
+            display: inline-block;
         }
         a:hover{
             text-shadow:rgb(255, 72, 0) 0px 0px 20px;
@@ -56,8 +75,8 @@
         #backtotop{
             display: none;
             position: fixed;
-            bottom: 50px;
-            right: 250px;
+            bottom: 30px;
+            right: 30px;
             z-index: 99;
             font-size: 18px;
             border: none;
@@ -65,7 +84,7 @@
             background-color: red;
             color: white;
             cursor: pointer;
-            padding: 15px;
+            padding: 14px 18px;
             border-radius: 4px;
             scroll-behavior: smooth;
         }
@@ -76,24 +95,98 @@
             background-color: #ff6a00;
             border-radius: 0px 30px 0px 30px;
             text-align:left;
-            margin: 0px 750px;
-            padding: 20px 50px;
+            max-width: 500px;
+            width: 90%;
+            margin: 0px auto 40px auto;
+            padding: 30px 40px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        .form h1 {
+            font-size: 24px;
+            text-align: center;
+            margin-top: 0;
+            margin-bottom: 25px;
         }
         .table, .table td, .table th{
-            padding: 0px 20px;
+            padding: 8px 16px;
             border: solid 2px white;
             border-collapse: collapse;
+        }
+        .table {
+            max-width: 95%;
+            margin: 20px auto;
+            overflow-x: auto;
+            display: block;
         }
         label{
             text-align:left;
         }
         input{
             text-align:center;
-            margin-bottom: -5px
+            margin-bottom: -5px;
+        }
+        .form input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: none;
+            font-size: 15px;
+            text-align: left;
+        }
+        .form input[type="submit"] {
+            background-color: #333;
+            color: white;
+            border: none;
+            padding: 10px 25px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .form input[type="submit"]:hover {
+            background-color: black;
         }
         .subjudul{
-            font-size:20px;
-            margin-bottom:10px;
+            font-size:18px;
+            margin-top: 15px;
+            margin-bottom:8px;
+            font-weight: bold;
+        }
+        @media (max-width: 768px) {
+            .navigation {
+                padding: 10px 5px;
+                margin-bottom: 40px;
+            }
+            a {
+                padding: 8px 12px;
+                font-size: 16px;
+            }
+            .form {
+                padding: 20px 20px;
+                width: 92%;
+            }
+            .form h1 {
+                font-size: 20px;
+            }
+            #backtotop {
+                right: 15px;
+                bottom: 15px;
+                padding: 10px 14px;
+                font-size: 16px;
+            }
+        }
+        @media (max-width: 480px) {
+            a {
+                padding: 6px 10px;
+                font-size: 14px;
+            }
+            .form {
+                padding: 15px;
+            }
+            .form h1 {
+                font-size: 18px;
+            }
         }
     </style>
 </head>
